@@ -1,0 +1,7 @@
+{
+	"name" : "dostavka",
+	"short_name" : "dostavrf",
+	"start_url" : "dostav-ka.bitrix24.site",
+	"display" : "standalone",
+	"orientation" : "portrait"
+}
